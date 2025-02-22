@@ -1,34 +1,34 @@
-# 🚀 Proyecto Increíble 🎉
+# 🚀 Incredible Project 🎉
 
-## 😎 Descripción
+## 😎 Description.
 
-¡Bienvenido al proyecto más asombroso del momento! 🌟 Aquí encontrarás una elegante interfaz de login desarrollada con **HTML**, **CSS** y **JavaScript**. Prepárate para disfrutar de una experiencia interactiva y moderna que te dejará boquiabierto 🤩.
+Welcome to the most amazing project of the moment! 🌟 Here you will find an elegant login interface developed with **HTML**, **CSS** and **JavaScript**. Get ready to enjoy a jaw-dropping interactive and modern experience 🤩.
 
-## 🚀 Tecnología Utilizada
+## 🚀 Technology Used.
 
--   **HTML** 📝
--   **CSS** 🎨
--   **JavaScript** 💻
+- **HTML** 📝
+- **CSS** 🎨
+- **JavaScript** 💻
 
-## 🔥 Características
+## 🔥 Features.
 
--   **Validación de Login**: Verifica los datos de acceso con feedback inmediato ✅
--   **Toggle de Contraseña**: Muestra u oculta la contraseña con un solo click 👀
--   **Diseño Responsivo**: Interfaz moderna que se adapta a cualquier dispositivo 📱
--   **Efectos visuales**: Fondo impactante y animaciones que hacen que todo luzca increíble ✨
+- **Login Validation**: Verify login data with immediate feedback ✅
+- **Password Toggle**: Show or hide the password with a single click 👀
+- **Responsive Design**: Modern interface that adapts to any device 📱
+- **Visual Effects**: Stunning background and animations that make everything look amazing ✨
 
-## 🎯 Cómo Ejecutar el Proyecto
+## 🎯 How to Run the Project
 
-1. Abre el archivo [index.html](index.html) en tu navegador.
-2. Interactúa con el formulario de login y comprueba sus funcionalidades.
-3. ¡Disfruta la experiencia! 😍
+1. Open the [index.html](index.html) file in your browser.
+2. Interact with the login form and check its functionalities.
+3. Enjoy the experience! 😍
 
-## 🤝 Contribuciones
+## 🤝 Contributions
 
-¡Tus ideas y mejoras son bienvenidas! Si deseas aportar al proyecto, no dudes en enviarme un pull request y colaborar en esta aventura de innovación 🚀🛠️.
+Your ideas and improvements are welcome! If you want to contribute to the project, feel free to send me a pull request and collaborate in this innovation adventure 🚀🛠️.
 
-## 📄 Licencia
+## 📄 License
 
-Este proyecto está bajo la Licencia MIT. Revisa el archivo LICENSE para más detalles 📜.
+This project is under the MIT License. Check the LICENSE file for more details 📜.
 
-¡No olvides dejar una ⭐ si este proyecto te inspira! 🙌✨
+Don't forget to leave a ⭐ if this project inspires you! 🙌✨
